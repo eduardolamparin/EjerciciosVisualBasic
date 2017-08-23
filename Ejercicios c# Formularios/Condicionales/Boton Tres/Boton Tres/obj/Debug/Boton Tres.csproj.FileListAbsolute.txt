@@ -1,0 +1,8 @@
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Boton Tres\Boton Tres\bin\Debug\Boton Tres.exe.config
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Boton Tres\Boton Tres\bin\Debug\Boton Tres.exe
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Boton Tres\Boton Tres\bin\Debug\Boton Tres.pdb
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Boton Tres\Boton Tres\obj\Debug\Boton_Tres.Form1.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Boton Tres\Boton Tres\obj\Debug\Boton_Tres.Properties.Resources.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Boton Tres\Boton Tres\obj\Debug\Boton Tres.csproj.GenerateResource.Cache
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Boton Tres\Boton Tres\obj\Debug\Boton Tres.exe
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Boton Tres\Boton Tres\obj\Debug\Boton Tres.pdb

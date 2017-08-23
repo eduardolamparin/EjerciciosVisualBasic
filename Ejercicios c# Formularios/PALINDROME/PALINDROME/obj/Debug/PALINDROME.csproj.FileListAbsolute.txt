@@ -1,0 +1,9 @@
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\PALINDROME\PALINDROME\bin\Debug\PALINDROME.exe.config
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\PALINDROME\PALINDROME\bin\Debug\PALINDROME.exe
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\PALINDROME\PALINDROME\bin\Debug\PALINDROME.pdb
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\PALINDROME\PALINDROME\obj\Debug\PALINDROME.csprojResolveAssemblyReference.cache
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\PALINDROME\PALINDROME\obj\Debug\PALINDROME.Form1.resources
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\PALINDROME\PALINDROME\obj\Debug\PALINDROME.Properties.Resources.resources
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\PALINDROME\PALINDROME\obj\Debug\PALINDROME.csproj.GenerateResource.Cache
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\PALINDROME\PALINDROME\obj\Debug\PALINDROME.exe
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\PALINDROME\PALINDROME\obj\Debug\PALINDROME.pdb

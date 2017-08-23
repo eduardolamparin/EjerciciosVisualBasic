@@ -1,0 +1,8 @@
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\mayor de dos numeros\mayor de dos numeros\bin\Debug\mayor de dos numeros.exe.config
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\mayor de dos numeros\mayor de dos numeros\bin\Debug\mayor de dos numeros.exe
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\mayor de dos numeros\mayor de dos numeros\bin\Debug\mayor de dos numeros.pdb
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\mayor de dos numeros\mayor de dos numeros\obj\Debug\mayor_de_dos_numeros.Form1.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\mayor de dos numeros\mayor de dos numeros\obj\Debug\mayor_de_dos_numeros.Properties.Resources.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\mayor de dos numeros\mayor de dos numeros\obj\Debug\mayor de dos numeros.csproj.GenerateResource.Cache
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\mayor de dos numeros\mayor de dos numeros\obj\Debug\mayor de dos numeros.exe
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\mayor de dos numeros\mayor de dos numeros\obj\Debug\mayor de dos numeros.pdb

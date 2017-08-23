@@ -1,0 +1,8 @@
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\mayor tres numeros\mayor tres numeros\bin\Debug\mayor tres numeros.exe.config
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\mayor tres numeros\mayor tres numeros\bin\Debug\mayor tres numeros.exe
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\mayor tres numeros\mayor tres numeros\bin\Debug\mayor tres numeros.pdb
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\mayor tres numeros\mayor tres numeros\obj\Debug\mayor_tres_numeros.Form1.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\mayor tres numeros\mayor tres numeros\obj\Debug\mayor_tres_numeros.Properties.Resources.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\mayor tres numeros\mayor tres numeros\obj\Debug\mayor tres numeros.csproj.GenerateResource.Cache
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\mayor tres numeros\mayor tres numeros\obj\Debug\mayor tres numeros.exe
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\mayor tres numeros\mayor tres numeros\obj\Debug\mayor tres numeros.pdb

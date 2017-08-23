@@ -1,0 +1,9 @@
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\resolucion\resolucion\bin\Debug\resolucion.exe.config
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\resolucion\resolucion\bin\Debug\resolucion.exe
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\resolucion\resolucion\bin\Debug\resolucion.pdb
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\resolucion\resolucion\obj\Debug\resolucion.csprojResolveAssemblyReference.cache
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\resolucion\resolucion\obj\Debug\resolucion.Form1.resources
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\resolucion\resolucion\obj\Debug\resolucion.Properties.Resources.resources
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\resolucion\resolucion\obj\Debug\resolucion.csproj.GenerateResource.Cache
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\resolucion\resolucion\obj\Debug\resolucion.exe
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\resolucion\resolucion\obj\Debug\resolucion.pdb

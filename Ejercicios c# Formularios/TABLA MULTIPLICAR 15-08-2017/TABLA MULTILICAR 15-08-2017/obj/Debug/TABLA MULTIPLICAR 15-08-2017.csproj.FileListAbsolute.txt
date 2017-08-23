@@ -1,0 +1,9 @@
+c:\users\aprendiz\documents\visual studio 2012\Projects\TABLA MULTIPLICAR 15-08-2017\TABLA MULTIPLICAR 15-08-2017\bin\Debug\TABLA MULTIPLICAR 15-08-2017.exe.config
+c:\users\aprendiz\documents\visual studio 2012\Projects\TABLA MULTIPLICAR 15-08-2017\TABLA MULTIPLICAR 15-08-2017\bin\Debug\TABLA MULTIPLICAR 15-08-2017.exe
+c:\users\aprendiz\documents\visual studio 2012\Projects\TABLA MULTIPLICAR 15-08-2017\TABLA MULTIPLICAR 15-08-2017\bin\Debug\TABLA MULTIPLICAR 15-08-2017.pdb
+c:\users\aprendiz\documents\visual studio 2012\Projects\TABLA MULTIPLICAR 15-08-2017\TABLA MULTIPLICAR 15-08-2017\obj\Debug\TABLA MULTIPLICAR 15-08-2017.csprojResolveAssemblyReference.cache
+c:\users\aprendiz\documents\visual studio 2012\Projects\TABLA MULTIPLICAR 15-08-2017\TABLA MULTIPLICAR 15-08-2017\obj\Debug\TABLA_MULTIPLICAR_15_08_2017.Form1.resources
+c:\users\aprendiz\documents\visual studio 2012\Projects\TABLA MULTIPLICAR 15-08-2017\TABLA MULTIPLICAR 15-08-2017\obj\Debug\TABLA_MULTIPLICAR_15_08_2017.Properties.Resources.resources
+c:\users\aprendiz\documents\visual studio 2012\Projects\TABLA MULTIPLICAR 15-08-2017\TABLA MULTIPLICAR 15-08-2017\obj\Debug\TABLA MULTIPLICAR 15-08-2017.csproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2012\Projects\TABLA MULTIPLICAR 15-08-2017\TABLA MULTIPLICAR 15-08-2017\obj\Debug\TABLA MULTIPLICAR 15-08-2017.exe
+c:\users\aprendiz\documents\visual studio 2012\Projects\TABLA MULTIPLICAR 15-08-2017\TABLA MULTIPLICAR 15-08-2017\obj\Debug\TABLA MULTIPLICAR 15-08-2017.pdb

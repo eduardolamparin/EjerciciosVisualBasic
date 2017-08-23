@@ -1,0 +1,8 @@
+C:\Users\Aprendiz\Desktop\04-08-2017\ejercicio3\ejercicio3\bin\Debug\ejercicio3.exe.config
+C:\Users\Aprendiz\Desktop\04-08-2017\ejercicio3\ejercicio3\bin\Debug\ejercicio3.exe
+C:\Users\Aprendiz\Desktop\04-08-2017\ejercicio3\ejercicio3\bin\Debug\ejercicio3.pdb
+C:\Users\Aprendiz\Desktop\04-08-2017\ejercicio3\ejercicio3\obj\Debug\ejercicio3.Form1.resources
+C:\Users\Aprendiz\Desktop\04-08-2017\ejercicio3\ejercicio3\obj\Debug\ejercicio3.Properties.Resources.resources
+C:\Users\Aprendiz\Desktop\04-08-2017\ejercicio3\ejercicio3\obj\Debug\ejercicio3.csproj.GenerateResource.Cache
+C:\Users\Aprendiz\Desktop\04-08-2017\ejercicio3\ejercicio3\obj\Debug\ejercicio3.exe
+C:\Users\Aprendiz\Desktop\04-08-2017\ejercicio3\ejercicio3\obj\Debug\ejercicio3.pdb

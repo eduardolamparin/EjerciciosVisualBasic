@@ -1,0 +1,8 @@
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\mayor de edad\mayor de edad\bin\Debug\mayor de edad.exe.config
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\mayor de edad\mayor de edad\bin\Debug\mayor de edad.exe
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\mayor de edad\mayor de edad\bin\Debug\mayor de edad.pdb
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\mayor de edad\mayor de edad\obj\Debug\mayor_de_edad.Form1.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\mayor de edad\mayor de edad\obj\Debug\mayor_de_edad.Properties.Resources.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\mayor de edad\mayor de edad\obj\Debug\mayor de edad.csproj.GenerateResource.Cache
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\mayor de edad\mayor de edad\obj\Debug\mayor de edad.exe
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\mayor de edad\mayor de edad\obj\Debug\mayor de edad.pdb

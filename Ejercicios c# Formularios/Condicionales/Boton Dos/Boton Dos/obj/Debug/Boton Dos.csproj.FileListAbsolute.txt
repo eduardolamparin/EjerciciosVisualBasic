@@ -1,0 +1,8 @@
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Boton Dos\Boton Dos\bin\Debug\Boton Dos.exe.config
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Boton Dos\Boton Dos\bin\Debug\Boton Dos.exe
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Boton Dos\Boton Dos\bin\Debug\Boton Dos.pdb
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Boton Dos\Boton Dos\obj\Debug\Boton_Dos.Form1.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Boton Dos\Boton Dos\obj\Debug\Boton_Dos.Properties.Resources.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Boton Dos\Boton Dos\obj\Debug\Boton Dos.csproj.GenerateResource.Cache
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Boton Dos\Boton Dos\obj\Debug\Boton Dos.exe
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Boton Dos\Boton Dos\obj\Debug\Boton Dos.pdb

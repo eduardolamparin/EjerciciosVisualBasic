@@ -1,0 +1,9 @@
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\Idiomas\Idiomas\bin\Debug\Idiomas.exe.config
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\Idiomas\Idiomas\bin\Debug\Idiomas.exe
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\Idiomas\Idiomas\bin\Debug\Idiomas.pdb
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\Idiomas\Idiomas\obj\Debug\Idiomas.csprojResolveAssemblyReference.cache
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\Idiomas\Idiomas\obj\Debug\Idiomas.Form1.resources
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\Idiomas\Idiomas\obj\Debug\Idiomas.Properties.Resources.resources
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\Idiomas\Idiomas\obj\Debug\Idiomas.csproj.GenerateResource.Cache
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\Idiomas\Idiomas\obj\Debug\Idiomas.exe
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\Idiomas\Idiomas\obj\Debug\Idiomas.pdb

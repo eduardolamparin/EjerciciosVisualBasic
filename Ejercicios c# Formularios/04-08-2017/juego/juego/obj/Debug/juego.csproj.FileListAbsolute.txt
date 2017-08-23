@@ -1,0 +1,14 @@
+C:\Users\Aprendiz\Desktop\04-08-2017\juego\juego\bin\Debug\juego.exe.config
+C:\Users\Aprendiz\Desktop\04-08-2017\juego\juego\bin\Debug\juego.exe
+C:\Users\Aprendiz\Desktop\04-08-2017\juego\juego\bin\Debug\juego.pdb
+C:\Users\Aprendiz\Desktop\04-08-2017\juego\juego\obj\Debug\juego.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Desktop\04-08-2017\juego\juego\obj\Debug\MainWindow.baml
+C:\Users\Aprendiz\Desktop\04-08-2017\juego\juego\obj\Debug\MainWindow.g.cs
+C:\Users\Aprendiz\Desktop\04-08-2017\juego\juego\obj\Debug\App.g.cs
+C:\Users\Aprendiz\Desktop\04-08-2017\juego\juego\obj\Debug\juego_MarkupCompile.cache
+C:\Users\Aprendiz\Desktop\04-08-2017\juego\juego\obj\Debug\juego.g.resources
+C:\Users\Aprendiz\Desktop\04-08-2017\juego\juego\obj\Debug\juego.Properties.Resources.resources
+C:\Users\Aprendiz\Desktop\04-08-2017\juego\juego\obj\Debug\juego.csproj.GenerateResource.Cache
+C:\Users\Aprendiz\Desktop\04-08-2017\juego\juego\obj\Debug\juego.exe
+C:\Users\Aprendiz\Desktop\04-08-2017\juego\juego\obj\Debug\juego.pdb
+C:\Users\Aprendiz\Desktop\04-08-2017\juego\juego\obj\Debug\juego_Content.g.cs

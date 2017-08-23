@@ -1,0 +1,18 @@
+c:\users\aprendiz\documents\visual studio 2012\Projects\sumatoria\sumatoria\bin\Debug\sumatoria.exe.config
+c:\users\aprendiz\documents\visual studio 2012\Projects\sumatoria\sumatoria\bin\Debug\sumatoria.exe
+c:\users\aprendiz\documents\visual studio 2012\Projects\sumatoria\sumatoria\bin\Debug\sumatoria.pdb
+c:\users\aprendiz\documents\visual studio 2012\Projects\sumatoria\sumatoria\obj\Debug\sumatoria.csprojResolveAssemblyReference.cache
+c:\users\aprendiz\documents\visual studio 2012\Projects\sumatoria\sumatoria\obj\Debug\sumatoria.Form1.resources
+c:\users\aprendiz\documents\visual studio 2012\Projects\sumatoria\sumatoria\obj\Debug\sumatoria.Properties.Resources.resources
+c:\users\aprendiz\documents\visual studio 2012\Projects\sumatoria\sumatoria\obj\Debug\sumatoria.csproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2012\Projects\sumatoria\sumatoria\obj\Debug\sumatoria.exe
+c:\users\aprendiz\documents\visual studio 2012\Projects\sumatoria\sumatoria\obj\Debug\sumatoria.pdb
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\sumatoria 14-08-2017\sumatoria\bin\Debug\sumatoria.exe.config
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\sumatoria 14-08-2017\sumatoria\obj\Debug\sumatoria.exe
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\sumatoria 14-08-2017\sumatoria\obj\Debug\sumatoria.pdb
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\sumatoria 14-08-2017\sumatoria\bin\Debug\sumatoria.exe
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\sumatoria 14-08-2017\sumatoria\bin\Debug\sumatoria.pdb
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\sumatoria 14-08-2017\sumatoria\obj\Debug\sumatoria.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\sumatoria 14-08-2017\sumatoria\obj\Debug\sumatoria.Form1.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\sumatoria 14-08-2017\sumatoria\obj\Debug\sumatoria.Properties.Resources.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\sumatoria 14-08-2017\sumatoria\obj\Debug\sumatoria.csproj.GenerateResource.Cache

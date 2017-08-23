@@ -1,0 +1,9 @@
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Promedio de nuemros\Promedio de nuemros\bin\Debug\Promedio de nuemros.exe.config
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Promedio de nuemros\Promedio de nuemros\obj\Debug\Promedio de nuemros.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Promedio de nuemros\Promedio de nuemros\obj\Debug\Promedio_de_nuemros.Form1.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Promedio de nuemros\Promedio de nuemros\obj\Debug\Promedio_de_nuemros.Properties.Resources.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Promedio de nuemros\Promedio de nuemros\obj\Debug\Promedio de nuemros.csproj.GenerateResource.Cache
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Promedio de nuemros\Promedio de nuemros\bin\Debug\Promedio de nuemros.exe
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Promedio de nuemros\Promedio de nuemros\bin\Debug\Promedio de nuemros.pdb
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Promedio de nuemros\Promedio de nuemros\obj\Debug\Promedio de nuemros.exe
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Promedio de nuemros\Promedio de nuemros\obj\Debug\Promedio de nuemros.pdb

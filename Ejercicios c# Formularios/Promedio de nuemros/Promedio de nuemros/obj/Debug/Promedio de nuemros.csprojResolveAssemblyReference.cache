@@ -1,0 +1,76 @@
+2"
+         }
+      }
+   },
+   "715869212995214079_ph": {
+      "message": "\u003C/a>\u003Ca href=\"\" ng-click=\"viewLogs()\">"
+   },
+   "7603034707785674700": {
+      "message": "Stummschalten"
+   },
+   "7735695102441495789": {
+      "message": "Hangout-Inaktivität wegen zu geringer Teilnehmerzahl."
+   },
+   "7824803162979416790": {
+      "message": "PC und Chromecast befinden sich in verschiedenen WLANs, z. B. 2,4 GHz und 5 GHz."
+   },
+   "7876724262035435114": {
+      "message": "Streaming- und Geräteprotokolle"
+   },
+   "8009014317872238527": {
+      "message": "Stummschaltung aufheben"
+   },
+   "8083429352755760987": {
+      "message": "Audioqualität"
+   },
+   "8205999658352447129": {
+      "message": "Ruckeln"
+   },
+   "8330636888136075045": {
+      "message": "Qualitätsdetails spiegeln$START_SPAN$*$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "8330636888136075045_ph": {
+      "message": "\u003C/span>\u003Cspan class=\"required-message\" ng-show=\"!top.sufficientFeedback\">"
+   },
+   "843316808366399491": {
+      "message": "Schlecht"
+   },
+   "845494741086179740": {
+      "message": "PC nutzt ein kabelgebundenes Netzwerk und Chromecast ein WLAN."
+   },
+   "8515148417333877999": {
+      "message": "Gut"
+   },
+   "8530815930928232626": {
+      "message": "Videoqualität"
+   },
+   "8636962961150071298": {
+      "message": "Suche"
+   },
+   "8706273405040403641": {
+      "message": "Vielen Dank für dein Feedback."
+   },
+   "9059560719840598868": {
+      "message": "Feedback geben"
+   },
+   "9120942669794506861": {
+      "message": "Hast du einen speziellen VPN oder Proxy oder eine spezielle Firewall- oder NAS-Software installiert?"
+   },
+   "9211708838274008657": {
+      "message": "Feedback kann nicht gesendet werden. Bitte versuche es später noch einmal."
+   },
+   "MEDIA_ROUTER_ADDITIONAL_COMMENTS": {
+      "message": "2145752429973207616"
+   },
+   "MEDIA_ROUTER_AUDIO_QUALITY": {
+      "message": "8083429352755760987"
+   },
+   "MEDIA_ROUTER_CANC

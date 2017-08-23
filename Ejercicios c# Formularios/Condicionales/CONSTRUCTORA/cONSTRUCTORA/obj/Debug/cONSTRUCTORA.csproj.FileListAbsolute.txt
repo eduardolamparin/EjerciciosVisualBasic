@@ -1,0 +1,9 @@
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\cONSTRUCTORA\cONSTRUCTORA\bin\Debug\cONSTRUCTORA.exe.config
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\CONSTRUCTORA\cONSTRUCTORA\bin\Debug\cONSTRUCTORA.exe
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\CONSTRUCTORA\cONSTRUCTORA\bin\Debug\cONSTRUCTORA.pdb
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\CONSTRUCTORA\cONSTRUCTORA\obj\Debug\cONSTRUCTORA.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\CONSTRUCTORA\cONSTRUCTORA\obj\Debug\cONSTRUCTORA.Form1.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\CONSTRUCTORA\cONSTRUCTORA\obj\Debug\cONSTRUCTORA.Properties.Resources.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\CONSTRUCTORA\cONSTRUCTORA\obj\Debug\cONSTRUCTORA.csproj.GenerateResource.Cache
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\CONSTRUCTORA\cONSTRUCTORA\obj\Debug\cONSTRUCTORA.exe
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\CONSTRUCTORA\cONSTRUCTORA\obj\Debug\cONSTRUCTORA.pdb

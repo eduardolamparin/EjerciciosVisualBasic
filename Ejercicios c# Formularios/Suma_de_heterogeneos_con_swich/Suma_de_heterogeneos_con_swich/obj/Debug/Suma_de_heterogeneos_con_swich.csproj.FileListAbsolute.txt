@@ -1,0 +1,9 @@
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Suma_de_heterogeneos_con_swich\Suma_de_heterogeneos_con_swich\bin\Debug\Suma_de_heterogeneos_con_swich.exe.config
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Suma_de_heterogeneos_con_swich\Suma_de_heterogeneos_con_swich\bin\Debug\Suma_de_heterogeneos_con_swich.exe
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Suma_de_heterogeneos_con_swich\Suma_de_heterogeneos_con_swich\bin\Debug\Suma_de_heterogeneos_con_swich.pdb
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Suma_de_heterogeneos_con_swich\Suma_de_heterogeneos_con_swich\obj\Debug\Suma_de_heterogeneos_con_swich.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Suma_de_heterogeneos_con_swich\Suma_de_heterogeneos_con_swich\obj\Debug\Suma_de_heterogeneos_con_swich.Form1.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Suma_de_heterogeneos_con_swich\Suma_de_heterogeneos_con_swich\obj\Debug\Suma_de_heterogeneos_con_swich.Properties.Resources.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Suma_de_heterogeneos_con_swich\Suma_de_heterogeneos_con_swich\obj\Debug\Suma_de_heterogeneos_con_swich.csproj.GenerateResource.Cache
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Suma_de_heterogeneos_con_swich\Suma_de_heterogeneos_con_swich\obj\Debug\Suma_de_heterogeneos_con_swich.exe
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Suma_de_heterogeneos_con_swich\Suma_de_heterogeneos_con_swich\obj\Debug\Suma_de_heterogeneos_con_swich.pdb

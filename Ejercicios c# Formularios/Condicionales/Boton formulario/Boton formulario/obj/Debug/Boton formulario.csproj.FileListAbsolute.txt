@@ -1,0 +1,9 @@
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Boton formulario\Boton formulario\bin\Debug\Boton formulario.exe.config
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Boton formulario\Boton formulario\bin\Debug\Boton formulario.exe
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Boton formulario\Boton formulario\bin\Debug\Boton formulario.pdb
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Boton formulario\Boton formulario\obj\Debug\Boton formulario.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Boton formulario\Boton formulario\obj\Debug\Boton_formulario.Form1.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Boton formulario\Boton formulario\obj\Debug\Boton_formulario.Properties.Resources.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Boton formulario\Boton formulario\obj\Debug\Boton formulario.csproj.GenerateResource.Cache
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Boton formulario\Boton formulario\obj\Debug\Boton formulario.exe
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Boton formulario\Boton formulario\obj\Debug\Boton formulario.pdb

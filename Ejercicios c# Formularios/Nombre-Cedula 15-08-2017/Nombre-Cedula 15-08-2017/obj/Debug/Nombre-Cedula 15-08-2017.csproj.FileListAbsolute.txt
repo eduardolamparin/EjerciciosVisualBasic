@@ -1,0 +1,8 @@
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Nombre-Cedula 15-08-2017\Nombre-Cedula 15-08-2017\bin\Debug\Nombre-Cedula 15-08-2017.exe.config
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Nombre-Cedula 15-08-2017\Nombre-Cedula 15-08-2017\bin\Debug\Nombre-Cedula 15-08-2017.exe
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Nombre-Cedula 15-08-2017\Nombre-Cedula 15-08-2017\bin\Debug\Nombre-Cedula 15-08-2017.pdb
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Nombre-Cedula 15-08-2017\Nombre-Cedula 15-08-2017\obj\Debug\Nombre_Cedula_15_08_2017.Form1.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Nombre-Cedula 15-08-2017\Nombre-Cedula 15-08-2017\obj\Debug\Nombre_Cedula_15_08_2017.Properties.Resources.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Nombre-Cedula 15-08-2017\Nombre-Cedula 15-08-2017\obj\Debug\Nombre-Cedula 15-08-2017.csproj.GenerateResource.Cache
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Nombre-Cedula 15-08-2017\Nombre-Cedula 15-08-2017\obj\Debug\Nombre-Cedula 15-08-2017.exe
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Nombre-Cedula 15-08-2017\Nombre-Cedula 15-08-2017\obj\Debug\Nombre-Cedula 15-08-2017.pdb

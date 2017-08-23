@@ -1,0 +1,9 @@
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\suma de dos numeros\suma de dos numeros\bin\Debug\suma de dos numeros.exe.config
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\suma de dos numeros\suma de dos numeros\bin\Debug\suma de dos numeros.exe
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\suma de dos numeros\suma de dos numeros\bin\Debug\suma de dos numeros.pdb
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\suma de dos numeros\suma de dos numeros\obj\Debug\suma de dos numeros.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\suma de dos numeros\suma de dos numeros\obj\Debug\suma_de_dos_numeros.Form1.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\suma de dos numeros\suma de dos numeros\obj\Debug\suma_de_dos_numeros.Properties.Resources.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\suma de dos numeros\suma de dos numeros\obj\Debug\suma de dos numeros.csproj.GenerateResource.Cache
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\suma de dos numeros\suma de dos numeros\obj\Debug\suma de dos numeros.exe
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\suma de dos numeros\suma de dos numeros\obj\Debug\suma de dos numeros.pdb

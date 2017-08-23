@@ -1,0 +1,9 @@
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\NARANJAS\NARANJAS\bin\Debug\NARANJAS.exe.config
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\NARANJAS\NARANJAS\bin\Debug\NARANJAS.exe
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\NARANJAS\NARANJAS\bin\Debug\NARANJAS.pdb
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\NARANJAS\NARANJAS\obj\Debug\NARANJAS.csprojResolveAssemblyReference.cache
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\NARANJAS\NARANJAS\obj\Debug\NARANJAS.Form1.resources
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\NARANJAS\NARANJAS\obj\Debug\NARANJAS.Properties.Resources.resources
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\NARANJAS\NARANJAS\obj\Debug\NARANJAS.csproj.GenerateResource.Cache
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\NARANJAS\NARANJAS\obj\Debug\NARANJAS.exe
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\NARANJAS\NARANJAS\obj\Debug\NARANJAS.pdb

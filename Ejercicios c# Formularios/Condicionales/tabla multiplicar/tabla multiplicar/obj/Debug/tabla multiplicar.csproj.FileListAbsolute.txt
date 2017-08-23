@@ -1,0 +1,9 @@
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\tabla multiplicar\tabla multiplicar\bin\Debug\tabla multiplicar.exe.config
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\tabla multiplicar\tabla multiplicar\obj\Debug\tabla multiplicar.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\tabla multiplicar\tabla multiplicar\obj\Debug\tabla_multiplicar.Form1.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\tabla multiplicar\tabla multiplicar\obj\Debug\tabla_multiplicar.Properties.Resources.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\tabla multiplicar\tabla multiplicar\obj\Debug\tabla multiplicar.csproj.GenerateResource.Cache
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\tabla multiplicar\tabla multiplicar\bin\Debug\tabla multiplicar.exe
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\tabla multiplicar\tabla multiplicar\bin\Debug\tabla multiplicar.pdb
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\tabla multiplicar\tabla multiplicar\obj\Debug\tabla multiplicar.exe
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\tabla multiplicar\tabla multiplicar\obj\Debug\tabla multiplicar.pdb

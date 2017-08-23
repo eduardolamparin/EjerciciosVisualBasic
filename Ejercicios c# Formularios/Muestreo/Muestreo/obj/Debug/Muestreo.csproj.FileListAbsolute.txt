@@ -1,0 +1,9 @@
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Muestreo\Muestreo\bin\Debug\Muestreo.exe.config
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Muestreo\Muestreo\bin\Debug\Muestreo.exe
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Muestreo\Muestreo\bin\Debug\Muestreo.pdb
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Muestreo\Muestreo\obj\Debug\Muestreo.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Muestreo\Muestreo\obj\Debug\Muestreo.Form1.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Muestreo\Muestreo\obj\Debug\Muestreo.Properties.Resources.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Muestreo\Muestreo\obj\Debug\Muestreo.csproj.GenerateResource.Cache
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Muestreo\Muestreo\obj\Debug\Muestreo.exe
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Muestreo\Muestreo\obj\Debug\Muestreo.pdb

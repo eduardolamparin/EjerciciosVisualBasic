@@ -1,0 +1,9 @@
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\Mensaje label\Mensaje label\bin\Debug\Mensaje label.exe.config
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\Mensaje label\Mensaje label\bin\Debug\Mensaje label.exe
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\Mensaje label\Mensaje label\bin\Debug\Mensaje label.pdb
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\Mensaje label\Mensaje label\obj\Debug\Mensaje label.csprojResolveAssemblyReference.cache
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\Mensaje label\Mensaje label\obj\Debug\Mensaje_label.Form1.resources
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\Mensaje label\Mensaje label\obj\Debug\Mensaje_label.Properties.Resources.resources
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\Mensaje label\Mensaje label\obj\Debug\Mensaje label.csproj.GenerateResource.Cache
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\Mensaje label\Mensaje label\obj\Debug\Mensaje label.exe
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\Mensaje label\Mensaje label\obj\Debug\Mensaje label.pdb

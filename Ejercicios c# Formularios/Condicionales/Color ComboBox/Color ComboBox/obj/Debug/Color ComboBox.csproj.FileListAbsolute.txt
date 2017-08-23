@@ -1,0 +1,8 @@
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Color ComboBox\Color ComboBox\bin\Debug\Color ComboBox.exe.config
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Color ComboBox\Color ComboBox\bin\Debug\Color ComboBox.exe
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Color ComboBox\Color ComboBox\bin\Debug\Color ComboBox.pdb
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Color ComboBox\Color ComboBox\obj\Debug\Color_ComboBox.Form1.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Color ComboBox\Color ComboBox\obj\Debug\Color_ComboBox.Properties.Resources.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Color ComboBox\Color ComboBox\obj\Debug\Color ComboBox.csproj.GenerateResource.Cache
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Color ComboBox\Color ComboBox\obj\Debug\Color ComboBox.exe
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Color ComboBox\Color ComboBox\obj\Debug\Color ComboBox.pdb

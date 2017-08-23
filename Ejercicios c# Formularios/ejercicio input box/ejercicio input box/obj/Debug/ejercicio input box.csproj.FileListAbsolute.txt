@@ -1,0 +1,9 @@
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\ejercicio input box\ejercicio input box\bin\Debug\ejercicio input box.exe.config
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\ejercicio input box\ejercicio input box\bin\Debug\ejercicio input box.exe
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\ejercicio input box\ejercicio input box\bin\Debug\ejercicio input box.pdb
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\ejercicio input box\ejercicio input box\obj\Debug\ejercicio input box.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\ejercicio input box\ejercicio input box\obj\Debug\ejercicio_input_box.Form1.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\ejercicio input box\ejercicio input box\obj\Debug\ejercicio_input_box.Properties.Resources.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\ejercicio input box\ejercicio input box\obj\Debug\ejercicio input box.csproj.GenerateResource.Cache
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\ejercicio input box\ejercicio input box\obj\Debug\ejercicio input box.exe
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\ejercicio input box\ejercicio input box\obj\Debug\ejercicio input box.pdb

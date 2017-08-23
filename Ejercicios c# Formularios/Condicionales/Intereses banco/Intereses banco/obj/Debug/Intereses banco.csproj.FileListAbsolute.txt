@@ -1,0 +1,13 @@
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Intereses banco\Intereses banco\bin\Debug\Intereses banco.exe.config
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Intereses banco\Intereses banco\bin\Debug\Intereses banco.exe
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Intereses banco\Intereses banco\bin\Debug\Intereses banco.pdb
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Intereses banco\Intereses banco\obj\Debug\Intereses banco.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Intereses banco\Intereses banco\obj\Debug\Intereses_banco.Form1.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Intereses banco\Intereses banco\obj\Debug\Intereses_banco.Properties.Resources.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Intereses banco\Intereses banco\obj\Debug\Intereses banco.csproj.GenerateResource.Cache
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Intereses banco\Intereses banco\obj\Debug\Intereses banco.exe
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Intereses banco\Intereses banco\obj\Debug\Intereses banco.pdb
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Intereses banco\Intereses banco\obj\Debug\Intereses_banco.Calificaciones.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Intereses banco\Intereses banco\obj\Debug\Intereses_banco.Almacen.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Intereses banco\Intereses banco\obj\Debug\Intereses_banco.Estado.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Intereses banco\Intereses banco\obj\Debug\Intereses_banco.Producto.resources

@@ -1,0 +1,8 @@
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\Altura persona\Altura persona\bin\Debug\Altura persona.exe.config
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\Altura persona\Altura persona\obj\Debug\Altura_persona.Form1.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\Altura persona\Altura persona\obj\Debug\Altura_persona.Properties.Resources.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\Altura persona\Altura persona\obj\Debug\Altura persona.csproj.GenerateResource.Cache
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\Altura persona\Altura persona\bin\Debug\Altura persona.exe
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\Altura persona\Altura persona\bin\Debug\Altura persona.pdb
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\Altura persona\Altura persona\obj\Debug\Altura persona.exe
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\Altura persona\Altura persona\obj\Debug\Altura persona.pdb

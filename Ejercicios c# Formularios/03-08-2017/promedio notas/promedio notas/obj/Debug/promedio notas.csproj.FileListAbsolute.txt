@@ -1,0 +1,8 @@
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\promedio notas\promedio notas\bin\Debug\promedio notas.exe.config
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\promedio notas\promedio notas\bin\Debug\promedio notas.exe
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\promedio notas\promedio notas\bin\Debug\promedio notas.pdb
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\promedio notas\promedio notas\obj\Debug\promedio_notas.Form1.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\promedio notas\promedio notas\obj\Debug\promedio_notas.Properties.Resources.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\promedio notas\promedio notas\obj\Debug\promedio notas.csproj.GenerateResource.Cache
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\promedio notas\promedio notas\obj\Debug\promedio notas.exe
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\promedio notas\promedio notas\obj\Debug\promedio notas.pdb

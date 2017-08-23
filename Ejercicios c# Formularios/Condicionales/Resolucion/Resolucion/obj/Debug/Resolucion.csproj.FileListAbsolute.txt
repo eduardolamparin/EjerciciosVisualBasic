@@ -1,0 +1,8 @@
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Resolucion\Resolucion\bin\Debug\Resolucion.exe.config
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Resolucion\Resolucion\bin\Debug\Resolucion.exe
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Resolucion\Resolucion\bin\Debug\Resolucion.pdb
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Resolucion\Resolucion\obj\Debug\Resolucion.Form1.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Resolucion\Resolucion\obj\Debug\Resolucion.Properties.Resources.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Resolucion\Resolucion\obj\Debug\Resolucion.csproj.GenerateResource.Cache
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Resolucion\Resolucion\obj\Debug\Resolucion.exe
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Resolucion\Resolucion\obj\Debug\Resolucion.pdb

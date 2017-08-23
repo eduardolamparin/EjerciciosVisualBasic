@@ -1,0 +1,8 @@
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Colores Rgba\Colores Rgba\bin\Debug\Colores Rgba.exe.config
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Colores Rgba\Colores Rgba\bin\Debug\Colores Rgba.exe
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Colores Rgba\Colores Rgba\bin\Debug\Colores Rgba.pdb
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Colores Rgba\Colores Rgba\obj\Debug\Colores_Rgba.Form1.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Colores Rgba\Colores Rgba\obj\Debug\Colores_Rgba.Properties.Resources.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Colores Rgba\Colores Rgba\obj\Debug\Colores Rgba.csproj.GenerateResource.Cache
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Colores Rgba\Colores Rgba\obj\Debug\Colores Rgba.exe
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Colores Rgba\Colores Rgba\obj\Debug\Colores Rgba.pdb

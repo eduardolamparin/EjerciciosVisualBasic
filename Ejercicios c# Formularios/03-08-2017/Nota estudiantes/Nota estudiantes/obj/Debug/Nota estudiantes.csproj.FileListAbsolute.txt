@@ -1,0 +1,9 @@
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\Nota estudiantes\Nota estudiantes\bin\Debug\Nota estudiantes.exe.config
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\Nota estudiantes\Nota estudiantes\bin\Debug\Nota estudiantes.exe
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\Nota estudiantes\Nota estudiantes\bin\Debug\Nota estudiantes.pdb
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\Nota estudiantes\Nota estudiantes\obj\Debug\Nota estudiantes.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\Nota estudiantes\Nota estudiantes\obj\Debug\Nota_estudiantes.Form1.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\Nota estudiantes\Nota estudiantes\obj\Debug\Nota_estudiantes.Properties.Resources.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\Nota estudiantes\Nota estudiantes\obj\Debug\Nota estudiantes.csproj.GenerateResource.Cache
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\Nota estudiantes\Nota estudiantes\obj\Debug\Nota estudiantes.exe
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\03-08-2017\Nota estudiantes\Nota estudiantes\obj\Debug\Nota estudiantes.pdb

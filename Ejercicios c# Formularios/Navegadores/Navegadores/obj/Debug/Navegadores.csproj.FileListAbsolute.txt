@@ -1,0 +1,8 @@
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\Navegadores\Navegadores\bin\Debug\Navegadores.exe.config
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\Navegadores\Navegadores\bin\Debug\Navegadores.exe
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\Navegadores\Navegadores\bin\Debug\Navegadores.pdb
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\Navegadores\Navegadores\obj\Debug\Navegadores.Form1.resources
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\Navegadores\Navegadores\obj\Debug\Navegadores.Properties.Resources.resources
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\Navegadores\Navegadores\obj\Debug\Navegadores.csproj.GenerateResource.Cache
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\Navegadores\Navegadores\obj\Debug\Navegadores.exe
+C:\Users\APRENDIZ\Desktop\Ejercicios c# Formularios\Navegadores\Navegadores\obj\Debug\Navegadores.pdb

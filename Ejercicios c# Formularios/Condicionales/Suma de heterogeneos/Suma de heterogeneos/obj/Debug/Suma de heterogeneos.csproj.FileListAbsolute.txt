@@ -1,0 +1,12 @@
+c:\users\aprendiz\documents\visual studio 2012\Projects\Suma de heterogeneos\Suma de heterogeneos\bin\Debug\Suma de heterogeneos.exe.config
+c:\users\aprendiz\documents\visual studio 2012\Projects\Suma de heterogeneos\Suma de heterogeneos\bin\Debug\Suma de heterogeneos.exe
+c:\users\aprendiz\documents\visual studio 2012\Projects\Suma de heterogeneos\Suma de heterogeneos\bin\Debug\Suma de heterogeneos.pdb
+c:\users\aprendiz\documents\visual studio 2012\Projects\Suma de heterogeneos\Suma de heterogeneos\obj\Debug\Suma de heterogeneos.csprojResolveAssemblyReference.cache
+c:\users\aprendiz\documents\visual studio 2012\Projects\Suma de heterogeneos\Suma de heterogeneos\obj\Debug\Suma_de_heterogeneos.Form1.resources
+c:\users\aprendiz\documents\visual studio 2012\Projects\Suma de heterogeneos\Suma de heterogeneos\obj\Debug\Suma_de_heterogeneos.Properties.Resources.resources
+c:\users\aprendiz\documents\visual studio 2012\Projects\Suma de heterogeneos\Suma de heterogeneos\obj\Debug\Suma de heterogeneos.csproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2012\Projects\Suma de heterogeneos\Suma de heterogeneos\obj\Debug\Suma de heterogeneos.exe
+c:\users\aprendiz\documents\visual studio 2012\Projects\Suma de heterogeneos\Suma de heterogeneos\obj\Debug\Suma de heterogeneos.pdb
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Suma de heterogeneos\Suma de heterogeneos\bin\Debug\Suma de heterogeneos.exe.config
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Suma de heterogeneos\Suma de heterogeneos\obj\Debug\Suma de heterogeneos.exe
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Condicionales\Suma de heterogeneos\Suma de heterogeneos\obj\Debug\Suma de heterogeneos.pdb

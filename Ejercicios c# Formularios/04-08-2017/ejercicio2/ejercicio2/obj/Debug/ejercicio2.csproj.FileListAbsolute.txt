@@ -1,0 +1,9 @@
+C:\Users\Aprendiz\Desktop\04-08-2017\ejercicio2\ejercicio2\bin\Debug\ejercicio2.exe.config
+C:\Users\Aprendiz\Desktop\04-08-2017\ejercicio2\ejercicio2\bin\Debug\ejercicio2.exe
+C:\Users\Aprendiz\Desktop\04-08-2017\ejercicio2\ejercicio2\bin\Debug\ejercicio2.pdb
+C:\Users\Aprendiz\Desktop\04-08-2017\ejercicio2\ejercicio2\obj\Debug\ejercicio2.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Desktop\04-08-2017\ejercicio2\ejercicio2\obj\Debug\ejercicio2.Form1.resources
+C:\Users\Aprendiz\Desktop\04-08-2017\ejercicio2\ejercicio2\obj\Debug\ejercicio2.Properties.Resources.resources
+C:\Users\Aprendiz\Desktop\04-08-2017\ejercicio2\ejercicio2\obj\Debug\ejercicio2.csproj.GenerateResource.Cache
+C:\Users\Aprendiz\Desktop\04-08-2017\ejercicio2\ejercicio2\obj\Debug\ejercicio2.exe
+C:\Users\Aprendiz\Desktop\04-08-2017\ejercicio2\ejercicio2\obj\Debug\ejercicio2.pdb

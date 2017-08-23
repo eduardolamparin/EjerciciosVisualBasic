@@ -1,0 +1,9 @@
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Promedio_de_20_notas 14-08-17\Promedio_de_20_notas 14-08-17\bin\Debug\Promedio_de_20_notas 14-08-17.exe.config
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Promedio_de_20_notas 14-08-17\Promedio_de_20_notas 14-08-17\bin\Debug\Promedio_de_20_notas 14-08-17.exe
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Promedio_de_20_notas 14-08-17\Promedio_de_20_notas 14-08-17\bin\Debug\Promedio_de_20_notas 14-08-17.pdb
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Promedio_de_20_notas 14-08-17\Promedio_de_20_notas 14-08-17\obj\Debug\Promedio_de_20_notas 14-08-17.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Promedio_de_20_notas 14-08-17\Promedio_de_20_notas 14-08-17\obj\Debug\Promedio_de_20_notas_14_08_17.Form1.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Promedio_de_20_notas 14-08-17\Promedio_de_20_notas 14-08-17\obj\Debug\Promedio_de_20_notas_14_08_17.Properties.Resources.resources
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Promedio_de_20_notas 14-08-17\Promedio_de_20_notas 14-08-17\obj\Debug\Promedio_de_20_notas 14-08-17.csproj.GenerateResource.Cache
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Promedio_de_20_notas 14-08-17\Promedio_de_20_notas 14-08-17\obj\Debug\Promedio_de_20_notas 14-08-17.exe
+C:\Users\Aprendiz\Desktop\Ejercicios c# Formularios\Promedio_de_20_notas 14-08-17\Promedio_de_20_notas 14-08-17\obj\Debug\Promedio_de_20_notas 14-08-17.pdb
